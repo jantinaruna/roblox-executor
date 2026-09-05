@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>RbExec.Core</RootNamespace>
+    <AssemblyName>RbExec.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
